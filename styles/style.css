@@ -1,5 +1,183 @@
-/* CSS Document */
-*, *::after, *::before {
-  box-sizing:border-box;  
+@font-face {
+  font-family: geoWeb;
+  src: url(../fonts/GeographWeb-Regular.western-subsets.woff2);
 }
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: geoWeb;  
+    position: relative;
+}
+main{
+  margin:0; 
+    padding:0 2em 2em;
+}
+
+nav{
+    background: #222;
+    padding: .5em 1em;
+}
+ul{
+    list-style-type: none;
+}
+
+.menu a{
+    font-size: 1.2em;
+    border-top: .2em solid #555;
+    padding-top: 1em;
+    color: white;
+    text-decoration: none;
+}
+
+.menu a:hover{
+    color:#fc0;
+    border-top: .2em solid #fc0;
+}
+
+.menu li{
+
+    font-weight: bold;
+    letter-spacing: .1em;
+    text-transform: uppercase; 
+    font-size: 1em;
+    padding: 1em .5em;
+}
+
+.menu li a{
+    display: block;
+}
+
+.article{
+    position: relative;
+}
+
+article img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+article ul{
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
+
+article li.categorie {
+    text-transform: uppercase;  
+    border-right: .1em solid black;
+    border-left: .1em solid black;
+    display: block;
+    width: 8em;
+    text-align: center;
+}
+
+article li h2 {
+    padding-top: 1em;
+    display: block;
+}
+
+article a{
+    text-decoration: none;
+    color: Black;
+}
+article .categorie a:hover{
+    text-decoration: underline;
+}
+article h2:hover{
+    
+    color: darkgrey;
+    text-decoration: none;
+    transition: .3s ease
+}
+
+/* mobile menu */
+.menu img{
+    width: 10em;
+    height: auto;
+    display: none;
+}
+
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.toggle{
+    order: 1;
+}
+
+.item{
+    width: 100%;
+    order: 2;
+    display: none;
+}
+
+.item.active{
+    display: block;
+}
+
+
+.toggle{
+    cursor: pointer;
+}
+
+.bars{
+    background: #999;
+    display: inline-block;
+    height: .1em;
+    position: relative;
+    width: 1.5em;
+}
+
+.bars::before,.bars::after{
+    background: #999;
+    content: "";
+    display: inline-block;
+    height: .1em;
+    position: absolute;
+    width: 1.5em; 
+}
+
+.bars::before{
+    top: 0.5em;
+}
+
+.bars::after{
+    top: -0.5em;
+}
+
+/* Tablet Menu */
+
+@media all and (min-width:468px;){
+    .menu{
+        justify-content: center;
+    }
+    .menu img{
+    width: 10em;
+    height: auto;
+    display: block;
+    }
+    .toggle{
+        order: 2;
+    }
+    
+}
+
+@media all and (min-width: 1068px){
+    
+    .item{
+        display: none;
+    }
+    .toggle{
+    }
+}
+
+
+
+
 
