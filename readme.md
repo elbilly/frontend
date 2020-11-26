@@ -39,13 +39,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Stand van zaken
 
 -dit ging goed & dit was lastig-
-<img src="images/hamburger_menu_die_nog_niet_werkt.png" alt="Hamburger menu die eigenlijk moet uitklappen werkt nu nog niet :(">
+<img src="images/hamburger menu die nog niet werkt.png" alt="Hamburger menu die eigenlijk moet uitklappen werkt nu nog niet :(">
 
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent met korte uitleg-
 <img src="images/articles.png" alt="Content blokken zitten er nu in met een article">
-<img src="images/hamburger_menu.png" alt="Dit is hoe de hamburger menu eruit komt te zien als het uitklappen werkt!">
+<img src="images/hamburger menu.png" alt="Dit is hoe de hamburger menu eruit komt te zien als het uitklappen werkt!">
 
 ### Agenda voor meeting
 
