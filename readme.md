@@ -53,9 +53,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 | Daan    | Andrej         | Jeffrey    | Bilal        |
 | ---            | ---     | ---          | ---              |
-| Hoe zet je de navigatie vanaf de searchbutton tot winkelmand naar rechts?  | De website newgrounds.com lijkt mij toch te lastig voor een blauwe piste. Is dit een correcte observatie of lijkt dat moeilijker dan dat het is? (Surface)             | Hoe kan je een slider het beste aanmaken? ( dus afbeelding met 4 klikbare bolletjes erin om van afbeelding te switchen )    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Hoe zet je de navigatie vanaf de searchbutton tot winkelmand naar rechts?  | De website newgrounds.com lijkt mij toch te lastig voor een blauwe piste. Is dit een correcte observatie of lijkt dat moeilijker dan dat het is? (Surface)             | Hoe kan je een slider het beste aanmaken? ( dus afbeelding met 4 klikbare bolletjes erin om van afbeelding te switchen )    | Zijn er nog een aantal makkelijkere opdrachten om te doen voor javascript ,omdat ik javascript iets te moeilijk vindt om te doen?    |
+| an dat ook nog | Hoe zet je een looped video op de achtergrond en kan ik bovenop die videos nog images plaatsen? | nog een punt | dit wil ik zeker |
+| ...            | Hoe goed moet je het minimale javascript onderdeel nou snappen om het te gebruiken?              | ...          | ...              |
 
 ### Verslag van meeting
 
