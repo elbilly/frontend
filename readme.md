@@ -53,7 +53,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 | Daan    | Andrej         | Jeffrey    | Bilal        |
 | ---            | ---     | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+| dit bespreken  | De website newgrounds.com lijkt mij toch te lastig voor een blauwe piste. Is dit een correcte observatie of lijkt dat moeilijker dan dat het is? (Surface)             | Hoe kan je een slider het beste aanmaken? ( dus afbeelding met 4 klikbare bolletjes erin om van afbeelding te switchen )    | en dan ik dat    |
 | an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
