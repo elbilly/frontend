@@ -51,7 +51,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -samen met je groepje opstellen-
 
-| Daan    | Andrej         | Jeffrey    | Bilal        | Bilal        | 
+| Daan    | Andrej         | Jeffrey    | Bilal        | Koen        | 
 | ---            | ---     | ---          | ---              | ---              |
 | Hoe zet je de navigatie vanaf de searchbutton tot winkelmand naar rechts?  | De website newgrounds.com lijkt mij toch te lastig voor een blauwe piste. Is dit een correcte observatie of lijkt dat moeilijker dan dat het is? (Surface)             | Hoe kan je een slider het beste aanmaken? ( dus afbeelding met 4 klikbare bolletjes erin om van afbeelding te switchen )    | Zijn er nog een aantal makkelijkere opdrachten om te doen voor javascript ,omdat ik javascript iets te moeilijk vindt om te doen?    |Hoe moet je cubic brezier gebruiken heb er zelf naar gezocht maar is lastig te vinden |
 |  | Hoe zet je een looped video op de achtergrond en kan ik bovenop die videos nog images plaatsen? |  | Ik heb een video gekeken voor een hamburger menu, deze video maakt gebruik van jquery. Mag je jquery gebruiken als je snapt wat er gebeurt? | Images, plaats je die het best in Html of css|
