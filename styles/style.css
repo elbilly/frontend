@@ -75,7 +75,7 @@ article li.categorie {
 }
 
 article li h2 {
-    padding-top: 1em;
+    padding-top: .5em;
     display: block;
 }
 
@@ -97,7 +97,7 @@ article h2:hover{
 .menu img{
     width: 10em;
     height: auto;
-    display: none;
+    display: block;
 }
 
 .menu{
@@ -117,13 +117,9 @@ article h2:hover{
     display: none;
 }
 
+
 .item.active{
     display: block;
-}
-
-
-.toggle{
-    cursor: pointer;
 }
 
 .bars{
